@@ -4,7 +4,7 @@ Aplicacion de apoyo para partidas de Dungeons and Dragons 5e con bestiario, gene
 
 link github: https://github.com/Bardan2906/Taller-Web.git
 
-Despliegue en Vercel: PEGAR_AQUI_EL_ENLACE
+Despliegue en Vercel: https://web-two-wine-22.vercel.appgit add README.md
 
 ## Comandos
 
